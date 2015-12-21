@@ -1,2 +1,0 @@
-# CrewAppDev
-Mobile Application Development
