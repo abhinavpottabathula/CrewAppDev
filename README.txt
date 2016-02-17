@@ -19,7 +19,7 @@ CONTENTS OF THIS FILE
 INTRODUCTION
 ------------
 Appearances are important in influencing others’ perceptions of oneself. How one dresses is even more important in the formal setting. PIC is created to help individuals gain 
-feedback on outfits they plan on using. I short, PIC is a social networking application designed to share, compare and improve on one’s outfit.
+feedback on outfits they plan on using. In short, PIC is a social networking application designed to share, compare and improve on one’s outfit.
  
 For more information, visit http://pic.paperplane.io/
 
