@@ -1,3 +1,5 @@
+[![PIC](https://img.youtube.com/vi/Pdv6FCOwe1o/0.jpg)](https://www.youtube.com/watch?v=Pdv6FCOwe1o)
+
 PIC
 
 CONTENTS OF THIS FILE
@@ -18,42 +20,42 @@ CONTENTS OF THIS FILE
 
 INTRODUCTION
 ------------
-Appearances are important in influencing others’ perceptions of oneself. How one dresses is even more important in the formal setting. PIC is created to help individuals gain 
-feedback on outfits they plan on using. In short, PIC is a social networking application designed to share, compare and improve on one’s outfit.
+Appearances are important in influencing othersâ€™ perceptions of oneself. How one dresses is even more important in the formal setting. PIC is created to help individuals gain 
+feedback on outfits they plan on using. In short, PIC is a social networking application designed to share, compare and improve on oneâ€™s outfit.
  
 For more information, visit http://pic.paperplane.io/
 
 REQUIREMENTS
 ------------
-·      An iOS device (iOS 7 or higher) or iOS emulator
-·      The device must be able to take a picture or upload a picture file
-·      iPhone 5S is the most optimized device for this application
+Â·      An iOS device (iOS 7 or higher) or iOS emulator
+Â·      The device must be able to take a picture or upload a picture file
+Â·      iPhone 5S is the most optimized device for this application
  
 INSTALLATION
 ------------
-·      This application is not available on the App Store
-·      Must be run through X-code via an iPhone Emulator or a connected device
+Â·      This application is not available on the App Store
+Â·      Must be run through X-code via an iPhone Emulator or a connected device
  
 CONFIGURATION
 -------------
-·      Configure user permissions in the Settings application on your device
-·      Permissions
-	·      Access to camera
-	·      Access to internet (Wi-Fi)
+Â·      Configure user permissions in the Settings application on your device
+Â·      Permissions
+	Â·      Access to camera
+	Â·      Access to internet (Wi-Fi)
  
 TROUBLESHOOTING
 ---------------
-·      If the application looks distorted, it may be due to a variance in screen resolution from the ideal iPhone 5S
-·      If the application takes an unnatural time to respond (over 1 second) it may be due to Wi-Fi connection
-·      Files other than images may not be uploaded onto the application
+Â·      If the application looks distorted, it may be due to a variance in screen resolution from the ideal iPhone 5S
+Â·      If the application takes an unnatural time to respond (over 1 second) it may be due to Wi-Fi connection
+Â·      Files other than images may not be uploaded onto the application
  
 FAQ
 ---
-Q: Why can’t I select photos from my gallery and upload it to my news feed?
+Q: Why canâ€™t I select photos from my gallery and upload it to my news feed?
 A: PIC is an application meant to upload unaltered pictures for honest review by peers. PIC, in this manner, prevents users from portraying a false persona to their followers. 
    After all, uploading a picture that is altered no longer gives room to achieve the goals of PIC.
  
-Q: Why can’t I upload media other than pictures to my news feed?
+Q: Why canâ€™t I upload media other than pictures to my news feed?
 A: The act of uploading media other than pictures is not in the intention of PIC or its developers. PIC is meant to be an application that allows FBLA members to share their opinions on 
    style, fashion, and attire. Users need not to upload media other than pictures to share their opinions and clothing choices, pictures are more than sufficient.
 
@@ -61,9 +63,9 @@ Q. What is the cloud at the top left of my screen?
 A. One of the unique features of PIC is that it allows you to take the weather into account. Using the feature allows users to look their best in good weather, and be prepared in case of 
    a bad weather forcast.
 
-Q. Why can I delete others’ comments and why can others delete my comments?
-A. While the app design allows individuals to delete others’ comments, we felt that such a feature was necessary. Since PIC’s primary audience is FBLA members, and more specifically, high 
-   school students, the possibility of cyber bullying arises. To prevent such abuse of PIC, we allow individuals to delete others’ comments. This way, people 
+Q. Why can I delete othersâ€™ comments and why can others delete my comments?
+A. While the app design allows individuals to delete othersâ€™ comments, we felt that such a feature was necessary. Since PICâ€™s primary audience is FBLA members, and more specifically, high 
+   school students, the possibility of cyber bullying arises. To prevent such abuse of PIC, we allow individuals to delete othersâ€™ comments. This way, people 
  
 SOFTWARE USED
 -------------
@@ -74,7 +76,7 @@ SOURCES OF INFORMATION
 ----------------------
 Since we found promise in developing with Swift, the latest iOS programming language, and had not used the language extensively in the past, we needed to view some tutorials and access 
 the internet for guidance. For assistance on the newly designed language, we referred to a tutorial made by Udemy. Udemy assisted us in setting up the workflow for the application, as 
-well as certain differences in syntax. Beyond Udemy, we used Stack Overflow’s free public forums to aid us in errors we had. We also used two APIs to develop our app faster and 
+well as certain differences in syntax. Beyond Udemy, we used Stack Overflowâ€™s free public forums to aid us in errors we had. We also used two APIs to develop our app faster and 
 essentially not write excessive code. The Parse API was used as a backend in order to eliminate the need to develop our own backend from scratch. The Parse API allows us to store all of 
 our backend data such as photos and user information. The API eliminated the need to use Python, PHP, SQL and other languages to get our content with ease. The second API we used was the 
 Open Weather Map API, which allows us to get weather information in a JSON format. The JSON file allowed us to extract the temperature and weather of a given location. This allowed us to 
@@ -102,21 +104,21 @@ mobile device.
 
 TEMPLATES USED
 ---------------
-To make the website that accompanies PIC, we used an open source HTML template from Mobile Cloud. Other than this, the app was completely made using Apple’s Xcode, tutorials, the 
+To make the website that accompanies PIC, we used an open source HTML template from Mobile Cloud. Other than this, the app was completely made using Appleâ€™s Xcode, tutorials, the 
 internet, and our minds.
 
 MAINTAINERS
 -----------
-·      Shreyas Patankar
-·      Abhinav Pottabathula
-·      Sanket Swamy
+Â·      Shreyas Patankar
+Â·      Abhinav Pottabathula
+Â·      Sanket Swamy
  
 INFORMATION SOURCES
 -------------------
-·      Stack Overflow
-·      Udemy
-·      Parse API
-·      Open Weather Map API
-·      Mitchell Hudson (Weather API Implementation Tutorial)
+Â·      Stack Overflow
+Â·      Udemy
+Â·      Parse API
+Â·      Open Weather Map API
+Â·      Mitchell Hudson (Weather API Implementation Tutorial)
 
 
