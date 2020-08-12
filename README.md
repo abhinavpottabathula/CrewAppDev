@@ -2,6 +2,12 @@
 
 [![A social networking app around clothing.](http://img.youtube.com/vi/Pdv6FCOwe1o/0.jpg)](http://www.youtube.com/watch?v=Pdv6FCOwe1o "PIC")
 
+
+## Application Screenshots
+![alt text](https://github.com/abhinavpottabathula/CrewAppDev/blob/master/resources/readme_pics/1.png?raw=true)
+![alt text](https://github.com/abhinavpottabathula/CrewAppDev/blob/master/resources/readme_pics/2.png?raw=true)
+![alt text](https://github.com/abhinavpottabathula/CrewAppDev/blob/master/resources/readme_pics/3.png?raw=true)
+
 CONTENTS OF THIS FILE
 ---------------------
  * Introduction
